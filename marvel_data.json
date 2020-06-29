@@ -1,0 +1,198 @@
+{
+  "phase_1": [{
+    "date": "30-04-2008",
+    "description": "Tony Stark, inventeur de génie, vendeur d'armes et playboy milliardaire, est kidnappé en Afghanistan. Forcé par ses ravisseurs de fabriquer une arme redoutable, il construit en secret une armure high-tech révolutionnaire qu'il utilise pour s'échapper. Comprenant la puissance de cette armure, il décide de l'améliorer et de l'utiliser pour faire régner la justice et protéger les innocents.",
+    "id": "ironman",
+    "logo": "img/logo/lg-ironman.webp",
+    "alt": "logo iron man",
+    "name": "Iron Man",
+    "visibleCard": false
+  }, {
+    "date": "23-07-2008",
+    "description": "Le scientifique Bruce Banner cherche désespérément un antidote aux radiations Gamma qui ont créé Hulk. Il vit dans l'ombre, toujours amoureux de la belle Betty Ross et parcourt la planète à la recherche d'un remède. La force destructrice de Hulk attire l'attention du Général Thaddeus « Thunderbolt » Ross et son bras droit Emil Blonsky qui rêvent de l'utiliser à des fins militaires. Ils tentent de développer un sérum pour créer des soldats surpuissants.",
+    "id": "hulk",
+    "logo": "img/logo/lg-hulk.webp",
+    "alt": "logo hulk",
+    "name": "Hulk",
+    "visibleCard": false
+  }, {
+    "date": "28-04-2010",
+    "description": "Le monde sait désormais que l'inventeur milliardaire Tony Stark et le super-héros Iron Man ne font qu'un. Malgré la pression du gouvernement, de la presse et du public pour qu'il partage sa technologie avec l'armée, Tony n'est pas disposé à divulguer les secrets de son armure, redoutant que l'information atterrisse dans de mauvaises mains. Avec Pepper Potts et James « Rhodey » Rhodes à ses côtés, Tony va forger de nouvelles alliances et affronter de nouvelles forces toutes-puissantes.",
+    "id": "ironman2",
+    "logo": "img/logo/lg-ironman.webp",
+    "alt": "logo iron man",
+    "name": "Iron Man 2",
+    "visibleCard": false
+  }, {
+    "date": "27-04-2011",
+    "description": "Au royaume d’Asgard, Thor est un guerrier aussi puissant qu’arrogant dont les actes téméraires déclenchent une guerre ancestrale. Banni et envoyé sur Terre, par son père Odin, il est condamné à vivre parmi les humains. Mais lorsque les forces du mal de son royaume s’apprêtent à se déchaîner sur la Terre, Thor va apprendre à se comporter en véritable héros.",
+    "id": "thor",
+    "logo": "img/logo/lg-thor.webp",
+    "alt": "logo thor",
+    "name": "Thor",
+    "visibleCard": false
+  }, {
+    "date": "17-08-2011",
+    "description": "Captain America : First Avenger nous plonge dans les premières années de l’univers Marvel. Steve Rogers, frêle et timide, se porte volontaire pour participer à un programme expérimental qui va le transformer en un Super Soldat connu sous le nom de Captain America. Allié à Bucky Barnes et Peggy Carter, il sera confronté à la diabolique organisation HYDRA dirigée par le redoutable Crâne Rouge.",
+    "id": "captainamerica",
+    "logo": "img/logo/lg-america.webp",
+    "alt": "logo captain america",
+    "name": "Captain America : First Avenger",
+    "visibleCard": false
+  }, {
+    "date": "25-04-2012",
+    "description": "Lorsque Nick Fury, le directeur du S.H.I.E.L.D., l'organisation qui préserve la paix au plan mondial, cherche à former une équipe de choc pour empêcher la destruction du monde, Iron Man, Hulk, Thor, Captain America, Hawkeye et Black Widow répondent présents. Les Avengers ont beau constituer la plus fantastique des équipes, il leur reste encore à apprendre à travailler ensemble, et non les uns contre les autres, d'autant que le redoutable Loki a réussi à accéder au Tesseract et à son pouvoir illimité.",
+    "id": "avengers",
+    "logo": "img/logo/lg-avengers.webp",
+    "alt": "logo avengers",
+    "name": "Avengers",
+    "visibleCard": false
+  }],
+  "phase_2": [{
+    "date": "03-05-2013",
+    "description": "Tony Stark, l’industriel flamboyant qui est aussi Iron Man, est confronté cette fois à un ennemi qui va attaquer sur tous les fronts. Lorsque son univers personnel est détruit, Stark se lance dans une quête acharnée pour retrouver les coupables. Dos au mur, il ne peut plus compter que sur ses inventions, son ingéniosité, et son instinct pour protéger ses proches. Alors qu’il se jette dans la bataille, Stark va enfin découvrir la réponse à la question qui le hante secrètement depuis si longtemps : est-ce l’homme qui fait le costume ou bien le costume qui fait l’homme ?",
+    "id": "ironman3",
+    "logo": "img/logo/lg-ironman.webp",
+    "alt": "logo iron man",
+    "name": "Iron Man 3",
+    "visibleCard": false
+  }, {
+    "date": "30-10-2013",
+    "description": "Thor se bat pour restaurer l’ordre dans le cosmos, mais une ancienne race, sous la conduite du terrible Malekith, un être assoiffé de vengeance, revient pour répandre les ténèbres. Confronté à un ennemi que même Odin et Asgard ne peuvent contrer, Thor doit s’engager dans son aventure la plus dangereuse et la plus personnelle, au cours de laquelle il va devoir s’allier au traître Loki pour sauver non seulement son peuple et ceux qui lui sont chers, mais aussi l’univers lui-même.",
+    "id": "thor2",
+    "logo": "img/logo/lg-thor.webp",
+    "alt": "logo thor",
+    "name": "Thor : Le monde des ténèbres",
+    "visibleCard": false
+  }, {
+    "date": "26-03-2014",
+    "description": "Après les événements cataclysmiques de New York dans Avengers, Steve Rogers vit tranquillement à Washington, D.C. et essaye de s'adapter au monde moderne. Mais quand un collègue du S.H.I.E.L.D. est attaqué, Steve se retrouve impliqué dans un réseau d'intrigues qui met le monde en danger. S'associant à Black Widow, Captain America lutte pour dénoncer une conspiration grandissante, tout en repoussant des tueurs professionnels envoyés pour le faire taire. Quand l'étendue du plan maléfique est révélée, Captain America et Black Widow sollicitent l'aide d'un nouvel allié, le Faucon. Cependant, ils se retrouvent bientôt face à un inattendu et redoutable ennemi – le Soldat de l'Hiver.",
+    "id": "captainamerica2",
+    "logo": "img/logo/lg-america.webp",
+    "alt": "logo captain america",
+    "name": "Captain America : Le soldat de l'hiver",
+    "visibleCard": false
+  }, {
+    "date": "13-08-2014",
+    "description": "Peter Quill est un aventurier traqué par tous les chasseurs de primes pour avoir volé un mystérieux globe convoité par le puissant Ronan, dont les agissements menacent l’univers tout entier. Lorsqu’il découvre le véritable pouvoir de ce globe et la menace qui pèse sur la galaxie, il conclut une alliance fragile avec quatre aliens disparates : Rocket, un raton laveur fin tireur, Groot, un humanoïde semblable à un arbre, l’énigmatique et mortelle Gamora, et Drax le Destructeur, qui ne rêve que de vengeance. En les ralliant à sa cause, il les convainc de livrer un ultime combat aussi désespéré soit-il pour sauver ce qui peut encore l’être …",
+    "id": "galaxy",
+    "logo": "img/logo/lg-galaxy.webp",
+    "alt": "logo gardiens de la galaxie",
+    "name": "Les gardiens de la galaxie",
+    "visibleCard": false
+  }, {
+    "date": "22-04-2015",
+    "description": "Alors que Tony Stark tente de relancer un programme de maintien de la paix jusque-là suspendu, les choses tournent mal et les super-héros Iron Man, Captain America, Thor, Hulk, Black Widow et Hawkeye vont devoir à nouveau unir leurs forces pour combattre le plus puissant de leurs adversaires : le terrible Ultron, un être technologique terrifiant qui s’est juré d’éradiquer l’espèce humaine. Afin d’empêcher celui-ci d’accomplir ses sombres desseins, des alliances inattendues se scellent, les entraînant dans une incroyable aventure et une haletante course contre le temps …",
+    "id": "avengers2",
+    "logo": "img/logo/lg-avengers.webp",
+    "alt": "logo avengers",
+    "name": "Avengers : L'ére d'Ultron",
+    "visibleCard": false
+  }, {
+    "date": "14-07-2015",
+    "description": "Doté d’une capacité étonnante, celle de rétrécir tout en augmentant sa force, l’arnaqueur Scott Lang doit embrasser la part du héros qui est en lui et aider son mentor, le Docteur Hank Pym, en protégeant le secret du costume d’Ant-Man d’une nouvelle génération de menaces gigantesques. Contre ces obstacles en apparence insurmontables, Pym et Lang doivent planifier et réussir un cambriolage qui sauvera le monde.",
+    "id": "antman",
+    "logo": "img/logo/lg-antman.webp",
+    "alt": "logo ant-man",
+    "name": "Ant-Man",
+    "visibleCard": false
+  }],
+  "phase_3": [{
+    "date": "27-04-2016",
+    "description": "Steve Rogers est désormais à la tête des Avengers, dont la mission est de protéger l’humanité. À la suite d’une de leurs interventions qui a causé d’importants dégâts collatéraux, le gouvernement décide de mettre en place un organisme de commandement et de supervision. Cette nouvelle mesure provoque une fracture au sein de l’équipe : Steve Rogers reste attaché à sa liberté de s’engager sans ingérence gouvernementale, tandis que d’autres se rangent derrière Tony Stark, qui contre toute attente, décide de se soumettre au gouvernement.",
+    "id": "captainamerica3",
+    "logo": "img/logo/lg-america.webp",
+    "alt": "logo captain america",
+    "name": "Captain America : Civil War",
+    "visibleCard": false
+  }, {
+    "date": "26-10-2016",
+    "description": "Doctor Strange présente l'histoire du chirurgien de renommée mondiale, Stephen Strange, qui voit sa vie bouleversée après un horrible accident de voiture qui lui fait l'usage de ses mains. Quand la médecine traditionnelle ne peut plus rien pour lui, il est forcé de chercher la guérison, et l'espoir, dans un endroit improbable – une mystérieuse enclave nommée Kamar-Taj. Il découvre rapidement que ce n'est pas qu'un simple centre de guérison, mais aussi une ligne de front dans une bataille contre des forces obscures invisibles qui veulent détruire notre réalité.",
+    "id": "strange",
+    "logo": "img/logo/lg-strange.webp",
+    "alt": "logo dr strange",
+    "name": "Doctor Strange",
+    "visibleCard": false
+  }, {
+    "date": "26-04-2017",
+    "description": "Les Gardiens doivent se battre pour garder leur nouvelle famille soudée pendant qu’ils découvrent le mystère qui se cache derrière les origines de Peter Quill. D’anciens ennemis deviennent des alliés et les personnages figurant dans les bandes dessinées préférées des fans prêteront main forte à nos héros pendant que l’Univers Cinématographique de Marvel continue son expansion.",
+    "id": "galaxy2",
+    "logo": "img/logo/lg-galaxy.webp",
+    "alt": "logo gardiens de la galaxie",
+    "name": "Les gardiens de la galaxie vol.2",
+    "visibleCard": false
+  }, {
+    "date": "12-07-2017",
+    "description": "Ravi de son expérience avec les Avengers, Peter est de retour chez lui, où il vit avec sa Tante May, sous l’œil attentif de son nouveau mentor Tony Stark. Peter essaye de retourner à sa routine quotidienne – distrait par l’idée de se prouver à lui-même qu’il est plus que l’amical voisin Spider-Man – mais quand le Vautour émerge en tant que nouveau méchant, tout ce auquel Peter tient se retrouve en danger.",
+    "id": "spiderman",
+    "logo": "img/logo/lg-spider.webp",
+    "alt": "logo spider-man",
+    "name": "Spider-Man : Homecomming",
+    "visibleCard": false
+  }, {
+    "date": "25-10-2017",
+    "description": "Thor se retrouve emprisonné de l’autre côté de l’univers sans son puissant marteau et se retrouve engagé dans une course contre le temps pour rejoindre Asgard et arrêter le Ragnarök – la destruction de son monde natal et la fin de la civilisation asgardienne – des mains d’une toute nouvelle menace, l’impitoyable Hela. Mais d’abord, il doit survivre à une compétition meurtrière de gladiateurs qui l’oppose à son ancien allié et compagnon Avenger.",
+    "id": "thor3",
+    "logo": "img/logo/lg-thor.webp",
+    "alt": "logo thor",
+    "name": "Thor : Ragnarok",
+    "visibleCard": false
+  }, {
+    "date": "14-02-2018",
+    "description": "Après les évènements de Captain America : Civil War, le roi T'Challa retourne chez lui dans la nation Africaine récluse et technologiquement avancée du Wakanda pour servir en tant que nouveau leader du pays. Toutefois, T'Challa doit rapidement comprendre qu'il est défié pour le trône par différentes factions à l'intérieur même de son pays. Quand deux ennemis conspirent pour détruire le Wakanda, le héros connu sous le nom de Black Panther doit s'allier avec l'agent de la CIA Everett K. Ross et les membres du Dora Milaje, les forces spéciales Wakandiennes, pour empêcher le Wakanda d'être attiré dans une guerre mondiale.",
+    "id": "panther",
+    "logo": "img/logo/lg-panther.webp",
+    "alt": "logo black panther",
+    "name": "Black Panther",
+    "visibleCard": false
+  }, {
+    "date": "25-04-2018",
+    "description": "Alors que les Avengers et leurs alliés ont continué de protéger le monde de menaces trop importante pour qu'un héros seul s'en occupe, un nouveau danger émerge des ombres cosmiques : Thanos. Un despote d'une infamie intergalactique, dont le but est de rassembler les six Pierres d'Infinité, des artéfacts d'un pouvoir inimaginable, afin de les utiliser pour imposer sa volonté à toute la réalité. Tout ce pourquoi les Avengers se sont battus mène à ce moment – les sorts de la Terre et l'existence elle-même n'ont jamais été aussi incertains.",
+    "id": "avengers3",
+    "logo": "img/logo/lg-avengers.webp",
+    "alt": "logo avengers",
+    "name": "Avengers : Infinity War",
+    "visibleCard": false
+  }, {
+    "date": "18-07-2018",
+    "description": "Au lendemain de la Guerre Civile de Captain America : Civil War, Scott Lang fait face aux conséquences de ses choix en tant que super-héros et père. Alors qu’il lutte pour rééquilibrer sa vie familiale avec ses responsabilités en tant qu’Ant-Man, il est confronté à Hope van Dyne et au Dr. Hank Pym qui lui confient une nouvelle mission urgente. Scott doit une nouvelle fois mettre son costume et apprendre à se battre aux côtés de la Guêpe, alors que l’équipe travaille ensemble pour découvrir les secrets de son passé.",
+    "id": "antman2",
+    "logo": "img/logo/lg-antman.webp",
+    "alt": "logo ant-man",
+    "name": "Ant-Man et la Guêpe",
+    "visibleCard": false
+  }, {
+    "date": "06-03-2019",
+    "description": "Placé dans les années 90, Captain Marvel est une toute nouvelle aventure dans une période encore jamais vue dans l'histoire de l'Univers Cinématographique Marvel qui suit le périple de Carol Danvers alors qu'elle devient l'une des plus puissantes héroïnes de l'univers. Alors qu'une guerre galactique entre deux races alien atteint la Terre, Danvers se retrouve avec un petit cadre d'alliés au milieu de la tempête.",
+    "id": "captainmarvel",
+    "logo": "img/logo/lg-capmarvel.webp",
+    "alt": "logo captain marvel",
+    "name": "Captain Marvel",
+    "visibleCard": false
+  }, {
+    "date": "24-04-2019",
+    "description": "Le déroulement des événements dramatiques mis en place par Thanos qui ont éradiqué la moitié de l'univers et fracturé les rangs des Avengers obligent les Avengers survivants à prendre position pour une ultime bataille dans la grande conclusion de vingt-deux films de Marvel Studios, Avengers : Endgame.",
+    "id": "avengers4",
+    "logo": "img/logo/lg-avengers.webp",
+    "alt": "logo avengers",
+    "name": "Avengers: Endgame",
+    "visibleCard": false
+  }, {
+    "date": "03-07-2019",
+    "description": "Notre super-héros sympa du quartier décide de rejoindre son meilleur ami Ned, MJ et les restes de ses camarades partent en vacances en Europe. Cependant, les plans de Peter pour laisser ses activités super-héroïques derrière lui pour quelques semaines sont rapidement contrecarrés quand il accepte à contrecoeur d'aider Nick Fury à découvrir le mystère derrière les attaques de créatures élémentaires, créant le chaos à travers tout le continent.",
+    "id": "spiderman2",
+    "logo": "img/logo/lg-spider.webp",
+    "alt": "logo spider-man",
+    "name": "Spider-Man : Far From Home",
+    "visibleCard": false
+  }],
+  "phase_4": [{
+    "date": "28-10-2020",
+    "description": "Natasha Romanoff, alias Black Widow, confronte les parties les plus sombres de son histoire quand une dangereuse conspiration en lien avec son passé émerge. Poursuivie par une force qui ne s'arrêtera pas avant de l'avoir neutralisée, Natasha doit faire face à son histoire en tant qu'espionne et les relations détruites laissées derrière elle avant de devenir une Avenger.",
+    "id": "blackwidow",
+    "logo": "img/logo/lg-blackwidow.webp",
+    "alt": "logo black widow",
+    "name": "Black Widow",
+    "visibleCard": false
+  }]
+}
