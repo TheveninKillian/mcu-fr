@@ -39,3 +39,4 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 ### A voir :
 PWA : https://cli.vuejs.org/core-plugins/pwa.html
+Voir icon : Tag HEAD

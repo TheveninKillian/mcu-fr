@@ -10,7 +10,14 @@
 }
 
 @media screen and (min-width: 35.5em) {
+
   /*≥ 568px*/
+  .item-card {
+    h2 {
+      font-size: 30px;
+      width: 100%;
+    }
+  }
 }
 
 @media screen and (min-width: 48em) {
@@ -20,6 +27,31 @@
     h1 {
       font-size: 48px;
       line-height: 80px;
+    }
+  }
+
+  .timeline {
+    &::before {
+      left: 50%;
+    }
+
+    .timeline-img {
+      left: calc(50% - 5px);
+      margin-left: 0;
+    }
+
+    .timeline-content {
+      max-width: none;
+      width: 45%;
+      margin-left: 20px;
+    }
+
+    .timeline-item {
+      &:nth-child(even) {
+        .timeline-content {
+          float: right;
+        }
+      }
     }
   }
 }
@@ -33,6 +65,58 @@
       line-height: 80px;
     }
   }
+
+  .timeline {
+    .timeline-img {
+      margin-top: 60px;
+    }
+
+    .timeline-content {
+      width: 40%;
+      margin-left: 8%;
+      margin-right: 8%;
+    }
+  }
+
+  .timeline-content {
+    .content-date {
+      font-size: 14px;
+    }
+
+    .timeline-logo {
+      width: 40px;
+      height: 40px;
+      top: 40px;
+    }
+
+    h2 {
+      margin-left: 45px;
+      margin-top: 10px;
+      font-size: 24px;
+    }
+
+    p {
+      font-size: 18px;
+      margin-left: 45px;
+      margin-top: 10px;
+      max-height: 20px;
+      line-height: 20px;
+    }
+
+    .btn-plus {
+      display: block;
+      border: none;
+      background-color: transparent;
+      color: $primary;
+      text-decoration: underline;
+      text-decoration-color: $primary;
+      cursor: pointer;
+      width: 100%;
+      text-align: right;
+      margin-top: 10px;
+      font-size: 16px;
+    }
+  }
 }
 
 @media screen and (min-width: 80em) {
@@ -42,6 +126,14 @@
     h1 {
       font-size: 80px;
       line-height: 94px;
+    }
+  }
+
+  .timeline {
+    .timeline-content {
+      width: 30%;
+      margin-left: 18%;
+      margin-right: 18%;
     }
   }
 }
