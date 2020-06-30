@@ -14,7 +14,3 @@ Le site comprend pour l'instant juste une timeline (par date de sortie) des film
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
-
-### A voir :
-PWA : https://cli.vuejs.org/core-plugins/pwa.html
-Voir icon : Tag HEAD
