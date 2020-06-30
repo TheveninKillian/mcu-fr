@@ -1,0 +1,47 @@
+@media screen and (min-width: 25em) {
+
+  /*≥ 400px*/
+  header {
+    h1 {
+      font-size: 35px;
+      line-height: 35px;
+    }
+  }
+}
+
+@media screen and (min-width: 35.5em) {
+  /*≥ 568px*/
+}
+
+@media screen and (min-width: 48em) {
+
+  /*≥ 768px*/
+  header {
+    h1 {
+      font-size: 48px;
+      line-height: 80px;
+    }
+  }
+}
+
+@media screen and (min-width: 64em) and (min-height: 35.5em) {
+
+  /*≥ 1024px*/
+  header {
+    h1 {
+      font-size: 70px;
+      line-height: 80px;
+    }
+  }
+}
+
+@media screen and (min-width: 80em) {
+
+  /*≥ 1280px*/
+  header {
+    h1 {
+      font-size: 80px;
+      line-height: 94px;
+    }
+  }
+}
